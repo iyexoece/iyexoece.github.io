@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyexoece.github.io/HUA/sitemap_index.txt
+Sitemap: https://iyexoece.github.io/Jxj/sitemap_index.txt
+Sitemap: https://iyexoece.github.io/MRL/sitemap_index.txt
+Sitemap: https://iyexoece.github.io/Xof/sitemap_index.txt
